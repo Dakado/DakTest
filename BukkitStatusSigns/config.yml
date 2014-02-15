@@ -1,0 +1,14 @@
+Data:
+  id: 0
+Format:
+  first: SuperServer
+  second: Players
+  slots: 250
+  fourth: Online
+Settings:
+  refresh: 5 # Sign refresh time in seconds.
+Signs:
+  0:
+    x: 0
+    y: 0
+    z: 0

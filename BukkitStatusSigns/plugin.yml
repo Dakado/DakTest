@@ -1,0 +1,9 @@
+name: StatusSigns
+main: vip.production.dakado.statussigns.Main
+author: Dakado
+version: 1.0
+commands:
+   ssigns:
+      description: Main command.
+      usage: /ssigns
+      permission: ssigns.remove

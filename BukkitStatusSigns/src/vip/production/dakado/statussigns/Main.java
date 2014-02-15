@@ -25,7 +25,7 @@ public class Main extends JavaPlugin implements Listener {
 	 public static BukkitTask pocitani = null;
 	
 	 
-	 
+	 //testing more
 	 
 	public void onEnable() {
 		String verze = getServer().getVersion(); //version checking
